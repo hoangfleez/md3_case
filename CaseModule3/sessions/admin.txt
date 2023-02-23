@@ -1,0 +1,1 @@
+{"MaTK":1,"TenTK":"admin","Matkhau":"admin","TenKH":"admin","DiaChi":"HN","Dienthoai":"0121456789","Vaitro":"1"}

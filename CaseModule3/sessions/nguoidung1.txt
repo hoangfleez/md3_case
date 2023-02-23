@@ -1,0 +1,1 @@
+{"MaTK":2,"TenTK":"nguoidung1","Matkhau":"123456","TenKH":"nguyen a","DiaChi":"HN","Dienthoai":"0125576789","Vaitro":"2"}
